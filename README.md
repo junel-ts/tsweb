@@ -13,5 +13,6 @@ Connect this repo in Cloudflare → Workers & Pages → Create → Pages → Con
 Build command: none. Output directory: `/`. Then attach the custom domain `www.topstitchdigital.com`.
 
 ## Before launch
-- Lead form: set `FORM_ENDPOINT` in `assets/js/site.js` to an approved destination (until then it shows "opens soon" and sends nothing).
+- Lead form posts via FormSubmit to topstitchdigital@gmail.com. The first real submission triggers a FormSubmit activation email to that inbox; click it once or nothing is delivered.
+- marketing@topstitchdigital.com is shown on the site: set up Cloudflare Email Routing (domain → Email → Email Routing) to forward it to topstitchdigital@gmail.com.
 - Privacy policy URL, social image, real authorized photos/proof.
