@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.topstitchdigital.com/sitemap.xml
+Sitemap: https://www.topstitchmedia.com/sitemap.xml

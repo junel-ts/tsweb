@@ -54,6 +54,6 @@
       const j = await r.json().catch(() => ({}));
       if (!r.ok || String(j.success) !== 'true') throw new Error(j.message || r.status);
       form.reset(); msg('Thanks — we received your request and will be in touch.', 'ok');
-    } catch { msg('Something went wrong sending your request. Please try again, or email marketing@topstitchdigital.com.', 'err'); }
+    } catch { msg('Something went wrong sending your request. Please try again, or email marketing@topstitchmedia.com.', 'err'); }
   });
 })();
