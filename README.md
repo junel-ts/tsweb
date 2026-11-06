@@ -1,4 +1,4 @@
-# TopStitch Digital — www.topstitchmedia.com
+# TopStitch Media — www.topstitchmedia.com
 
 Static site (no build step): marketing for mobile furniture, leather, vinyl and upholstery repair businesses.
 
