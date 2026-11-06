@@ -14,5 +14,5 @@ Build command: none. Output directory: `/`. Then attach the custom domain `www.t
 
 ## Before launch
 - Lead form posts via FormSubmit to topstitchdigital@gmail.com. The first real submission triggers a FormSubmit activation email to that inbox; click it once or nothing is delivered.
-- marketing@topstitchdigital.com is shown on the site: set up Cloudflare Email Routing (domain → Email → Email Routing) to forward it to topstitchdigital@gmail.com.
+- marketing@topstitchmedia.com is shown on the site: set up Cloudflare Email Routing (domain → Email → Email Routing) to forward it to topstitchdigital@gmail.com.
 - Privacy policy URL, social image, real authorized photos/proof.
